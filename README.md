@@ -122,7 +122,7 @@ PHUs 2226, 2227, 2230 spiked **2–3 weeks ahead** of province-wide surges
 These units acted as sentinel hotspots before waves spread broadly.  
 - **Recommendation:** Monitor as **leading indicators** to trigger surge planning.
 
-![image]()
+![image](https://github.com/debraville7/Ontario-Public-Health-Units-COVID-19-Analysis/blob/main/Predictive%20Indicators%20-%20Early%20Warnings.png?raw=true)
 
 ---
 
