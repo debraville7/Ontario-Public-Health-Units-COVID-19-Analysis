@@ -40,15 +40,6 @@ An interactive Tableau dashboard used to report and explore ontario public healt
 
 ---
 
-## 🔹 Methodology and Tools
-
-- **SQL Server**: Data integration → star schema fact table (`Date × PHU × Agegroup`)  
-- **Python (SQLAlchemy + Pandas)**: Cleaning (missing data, duplicates, outliers)  
-- **Excel**: Exploratory Data Analysis (pivot tables, charts)  
-- **Tableau**: Data Visualizations, interactive dashboard  
-
-
----
 
 ## 🔹 Key Metrics
 
@@ -56,7 +47,17 @@ An interactive Tableau dashboard used to report and explore ontario public healt
 - **Cases per 100k:** Normalizes cases for fair PHU and agegroup comparison. 
 - **Vaccination Coverage:** Computed from cumulative counts / population.  
 - **Active/Resolved/Deaths:** PHU-level daily snapshots from case reports 
-- **Predictive Indicators:** Week-over-week case growth and spikes in PHUs, used as early warnings.  
+- **Predictive Indicators:** Week-over-week case growth and spikes in PHUs, used as early warnings.
+
+---
+
+## 🔹 Methodology and Tools
+
+- **SQL Server**: Data integration → star schema fact table (`Date × PHU × Agegroup`)  
+- **Python (SQLAlchemy + Pandas)**: Cleaning (missing data, duplicates, outliers)  
+- **Excel**: Exploratory Data Analysis (pivot tables, charts)  
+- **Tableau**: Data Visualizations, interactive dashboard  
+  
 
 ---
 
