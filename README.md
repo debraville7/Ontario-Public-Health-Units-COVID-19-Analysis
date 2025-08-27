@@ -34,7 +34,7 @@ An interactive Tableau dashboard used to report and explore ontario public healt
 - **Dimensions**: PHU, Age Group, Date  
 - **Multiple Date Types**: Accurate Episode, Case Reported, Test Reported, Specimen
 
-[Entity Relationship Diagram here] [image]
+[ERD IMAGE]
 
 ---
 
@@ -77,7 +77,7 @@ Ontario’s Public Health Units (PHUs) showed uneven COVID-19 outcomes shaped by
 - These PHUs consistently surfaced at the right tail of case distributions across waves, indicating persistent vulnerability.  
 - **Recommendation:** Deploy **targeted mobile vaccination/testing units** and **localized outreach campaigns**.
 
-[Visualization specific to category 1]
+![image](https://github.com/debraville7/Ontario-Public-Health-Units-COVID-19-Analysis/blob/main/Geographical%20-%20High%20Risk%20PHU.png?raw=true)
 ---
 
 ### 2. Temporal Waves vs. Vaccination Uptake
