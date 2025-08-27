@@ -113,7 +113,7 @@ Adolescents (12–17 yrs) and seniors (80+) peaked at **2.5× higher incidence**
 - Hospital strain mirrored active case curves with a 1–2 week lag.  
 - **Recommendation:** **Pre-deploy surge staff/resources** when active cases rise steeply.
 
-![image]()
+![image](https://github.com/debraville7/Ontario-Public-Health-Units-COVID-19-Analysis/blob/main/Healthcare%20Capacity%20Impact.png?raw=true)
 
 ---
 
