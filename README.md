@@ -95,7 +95,7 @@ Adolescents (12–17 yrs) and seniors (80+) peaked at **2.5× higher incidence**
 - These groups alternated as the highest-risk cohorts — youth in school/work clusters, seniors due to waning immunity.  
 - **Recommendation:** **School/workplace campaigns** for youth, **booster reinforcement** for seniors.
 
-[Visualization specific to category 1]
+![image](https://github.com/debraville7/Ontario-Public-Health-Units-COVID-19-Analysis/blob/main/Demography%20-%20Age%20x%20Month%20Heatmap.png?raw=true)
 
 ---
 
