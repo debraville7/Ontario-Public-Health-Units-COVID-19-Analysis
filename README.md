@@ -23,6 +23,7 @@ An interactive Tableau dashboard used to report and explore ontario public healt
 
 ---
 
+
 ## 🔹 Data Structure & Initial Checks
 
 1. **Vaccination by Age & PHU** — cumulative doses, population denominators  
@@ -31,15 +32,15 @@ An interactive Tableau dashboard used to report and explore ontario public healt
 
 ---
 
-
 ## 🔹 Integration Model (Star Schema)
 
-- **Fact Table**: Daily `New Cases`, `Cases per 100k`, Vaccination metrics, Status metrics, Individual case metrics  
+- **Fact Table**: Vaccination metrics, Status metrics, Individual case metrics  
 - **Dimensions**: PHU, Age Group, Date  
 - **Multiple Date Types**: Accurate Episode, Case Reported, Test Reported, Specimen
 
----
+[Entity Relationship Diagram here]
 
+---
 
 ## 🔹 Key Metrics
 
@@ -51,6 +52,7 @@ An interactive Tableau dashboard used to report and explore ontario public healt
 
 ---
 
+
 ## 🔹 Methodology and Tools
 
 - **SQL Server**: Data integration → star schema fact table (`Date × PHU × Agegroup`)  
@@ -58,8 +60,8 @@ An interactive Tableau dashboard used to report and explore ontario public healt
 - **Excel**: Exploratory Data Analysis (pivot tables, charts)  
 - **Tableau**: Data Visualizations, interactive dashboard  
   
-
 ---
+
 
 ## 🔹 Executive Summary
 **Overview of Findings**
@@ -70,6 +72,7 @@ Ontario’s Public Health Units (PHUs) showed uneven COVID-19 outcomes shaped by
 [Visualization, including a graph of overall trends or snapshot of a dashboard]
 
 ---
+
 
 ## 🔹 Insights Deep Dive
 
