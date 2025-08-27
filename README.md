@@ -9,15 +9,11 @@
 
 Ontario’s Public Health Units (PHUs) experienced uneven COVID-19 case surges and vaccination uptake during the pandemic, influenced by geography, demographics, and socioeconomic conditions. Despite widespread vaccination campaigns, certain regions and age groups continued to face disproportionate infection rates and healthcare pressures. This raises critical questions about the effectiveness of vaccination programs, equity in health outcomes, and the ability to predict and manage future waves. Without a data-driven understanding of these patterns, resource allocation and policy responses risk being reactive rather than proactive. 
 
-**Research Question:**  
-How can regional, temporal, and demographic COVID-19 data guide proactive, equitable public health decisions?
-
 This project integrates demographic, geographic, and temporal data to:
 - Identify **high-risk regions** and age cohorts  
 - Evaluate the **impact of vaccination coverage**  
 - Provide **early warning indicators** for healthcare system strain  
 - Support **equitable response planning** across Ontario
-
 
 An interactive Tableau dashboard used to report and explore ontario public health units covid-19 trends can be found here [[link](https://public.tableau.com/app/profile/deborah.afolarin/viz/ONTARIOPUBLICHEALTHUNITSCOVID-19ANALYSIS/ONTARIOPHUCOVID-19ANALYSIS2)]
 
