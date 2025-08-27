@@ -78,6 +78,7 @@ Ontario’s Public Health Units (PHUs) showed uneven COVID-19 outcomes shaped by
 - **Recommendation:** Deploy **targeted mobile vaccination/testing units** and **localized outreach campaigns**.
 
 ![image](https://github.com/debraville7/Ontario-Public-Health-Units-COVID-19-Analysis/blob/main/Geographical%20-%20High%20Risk%20PHU.png?raw=true)
+
 ---
 
 ### 2. Temporal Waves vs. Vaccination Uptake
@@ -85,7 +86,8 @@ Ontario’s Public Health Units (PHUs) showed uneven COVID-19 outcomes shaped by
 - When vaccination campaigns ramped up, subsequent waves showed dampened peaks.  
 - **Recommendation:** Align **vaccination pushes 2–4 weeks ahead** of predicted waves.
 
-[Visualization specific to category 1]
+![image](https://github.com/debraville7/Ontario-Public-Health-Units-COVID-19-Analysis/blob/main/Temporal%20Trend%20-%20Waves%20&%20Vaccine%20Uptake.png?raw=true)
+
 ---
 
 ### 3. Demographic Disparities
@@ -94,6 +96,7 @@ Adolescents (12–17 yrs) and seniors (80+) peaked at **2.5× higher incidence**
 - **Recommendation:** **School/workplace campaigns** for youth, **booster reinforcement** for seniors.
 
 [Visualization specific to category 1]
+
 ---
 
 ### 4. Vaccine Effectiveness
