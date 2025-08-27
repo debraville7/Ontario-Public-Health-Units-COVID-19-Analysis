@@ -63,7 +63,7 @@ Ontario’s Public Health Units (PHUs) showed uneven COVID-19 outcomes shaped by
 1. Certain PHUs consistently experienced higher case burdens, flagging them as hotspots for localized intervention.
 2. Vaccination uptake and timing directly influenced wave intensity, with slower uptake preceding severe surges and increased coverage helping flatten later waves.
 3. Healthcare capacity strain mirrored active case trends, underscoring the value of predictive monitoring and surge readiness.
-[Visualization, including a graph of overall trends or snapshot of a dashboard]
+![image][Visualization, including a graph of overall trends or snapshot of a dashboard]
 
 ---
 
