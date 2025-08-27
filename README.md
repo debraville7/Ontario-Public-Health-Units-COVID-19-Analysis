@@ -34,6 +34,8 @@ An interactive Tableau dashboard used to report and explore ontario public healt
 - **Dimensions**: PHU, Age Group, Date  
 - **Multiple Date Types**: Accurate Episode, Case Reported, Test Reported, Specimen
 
+![image](https://github.com/debraville7/Ontario-Public-Health-Units-COVID-19-Analysis/blob/main/covid_data_schema_diagram.png?raw=true)
+
 ---
 
 ## 🔹 Key Metrics
