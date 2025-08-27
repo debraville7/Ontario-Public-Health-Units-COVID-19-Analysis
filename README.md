@@ -34,7 +34,7 @@ An interactive Tableau dashboard used to report and explore ontario public healt
 - **Dimensions**: PHU, Age Group, Date  
 - **Multiple Date Types**: Accurate Episode, Case Reported, Test Reported, Specimen
 
-[Entity Relationship Diagram here]
+[Entity Relationship Diagram here] [image]
 
 ---
 
