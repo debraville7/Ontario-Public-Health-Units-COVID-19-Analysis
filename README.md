@@ -104,7 +104,8 @@ Adolescents (12–17 yrs) and seniors (80+) peaked at **2.5× higher incidence**
 - Clear negative correlation between coverage and incidence across all cohorts.  
 - **Recommendation:** Sustain **high booster uptake** in at-risk populations.
 
-[Visualization specific to category 1]
+![image](https://github.com/debraville7/Ontario-Public-Health-Units-COVID-19-Analysis/blob/main/Vaccine%20Effectiveness%20-%20Coverage%20vs.%20Case.png?raw=true)
+
 ---
 
 ### 5. Healthcare Capacity Strain 
@@ -112,7 +113,8 @@ Adolescents (12–17 yrs) and seniors (80+) peaked at **2.5× higher incidence**
 - Hospital strain mirrored active case curves with a 1–2 week lag.  
 - **Recommendation:** **Pre-deploy surge staff/resources** when active cases rise steeply.
 
-[Visualization specific to category 1]
+![image]()
+
 ---
 
 ### 6. Predictive Indicators (Early Warnings)
@@ -120,7 +122,8 @@ PHUs 2226, 2227, 2230 spiked **2–3 weeks ahead** of province-wide surges
 These units acted as sentinel hotspots before waves spread broadly.  
 - **Recommendation:** Monitor as **leading indicators** to trigger surge planning.
 
-[Visualization specific to category 1]
+![image]()
+
 ---
 
 
