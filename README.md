@@ -75,7 +75,7 @@ Ontario’s Public Health Units (PHUs) showed uneven COVID-19 outcomes shaped by
 - These PHUs consistently surfaced at the right tail of case distributions across waves, indicating persistent vulnerability.
 - Younger, more mobile populations (18–29 yrs) made up a larger share in these regions, and they were among the groups with consistently elevated incidence. 
 
-![image](https://github.com/debraville7/Ontario-Public-Health-Units-COVID-19-Analysis/blob/main/Geographical%20-%20High%20Risk%20PHU.png?raw=true)
+![image](https://github.com/debraville7/Ontario-Public-Health-Units-COVID-19-Analysis/blob/main/PHU_Case%20Per%20100k%20Average%20Distribution.png?raw=true)
 
 ---
 
