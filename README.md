@@ -1,5 +1,7 @@
 # Ontario-Public-Health-Units-COVID-19-Analysis
 
+![image](https://github.com/debraville7/Ontario-Public-Health-Units-COVID-19-Analysis/blob/main/COVID-19%20ONTARIO%20ANALYSIS%20COVER%20PAGE.png?raw=true)
+
 
 📊 Practicum Project • **SQL Server (Data Integration)** • **Python (Data Cleaning)** • **Excel (EDA)** • **Tableau (Data Visualization & Dashboard)**
 
